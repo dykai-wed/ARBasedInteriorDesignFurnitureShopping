@@ -1,0 +1,7 @@
+body { font-family: 'Segoe UI', Arial, sans-serif; }
+.hero { padding: 3rem 0; text-align: center; background: #f8f9fa; }
+.featured-tools { margin: 2rem 0; }
+.categories { margin: 2rem 0; }
+.card { transition: box-shadow 0.2s; }
+.card:hover { box-shadow: 0 0 16px #007bff33; }
+footer { font-size: 0.95em; }
